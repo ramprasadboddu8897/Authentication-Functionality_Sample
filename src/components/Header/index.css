@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+.links {
+  text-decoration: none;
+  padding-right: 20px;
+}
